@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shweta6886
+- 👋 Hi, I’m Shweta
 - 👀 I’m interested in Data Analysis and Data Visualization
 - 🌱 I’m currently learning Tableau, SQL, Data Mining
 - 💞️ I’m looking to collaborate on related technologies
